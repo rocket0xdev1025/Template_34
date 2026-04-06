@@ -261,7 +261,7 @@
         },
         k = function () {
           var e,
-            t = "0xcomingsoon",
+            t = "0x4e26a901078d97278108ac93f6a3e72684d54444",
             a = (0, o.useState)(!1),
             i = a[0],
             m = a[1],
@@ -362,7 +362,7 @@
                             "flex flex-wrap justify-center gap-4 w-full",
                           children: [
                             (0, n.jsx)("a", {
-                              href: "https://dexscreener.com/ethereum/0xcomingsoon",
+                              href: "https://dexscreener.com/bsc/0x4e26a901078d97278108ac93f6a3e72684d54444",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               className:
@@ -370,7 +370,7 @@
                               children: "View on Dexscreener",
                             }),
                             (0, n.jsx)("a", {
-                              href: "https://www.dextools.io/app/ether/pair-explorer/0xcomingsoon",
+                              href: "https://www.dextools.io/app/bnb/pair-explorer/0x4e26a901078d97278108ac93f6a3e72684d54444",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               className:
@@ -537,7 +537,7 @@
                       (0, n.jsx)("div", {
                         className:
                           "inline-block bg-pepe-light text-white border-4 border-black px-8 py-3 rounded-full font-black text-2xl transform -rotate-2 shadow-[6px_6px_0px_#000]",
-                        children: "THE LEGEND OF BLOOP",
+                        children: "THE LEGEND OF 1014",
                       }),
                       (0, n.jsxs)("div", {
                         className: "relative group",
