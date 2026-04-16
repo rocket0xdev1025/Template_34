@@ -74,12 +74,12 @@
             x = [
               {
                 name: "Telegram",
-                href: "https://t.me/yihebirthday",
+                href: "https://t.me/yihe1014",
                 icon: "/images/tg.svg",
               },
               {
                 name: "X",
-                href: "https://x.com/yihebirthday",
+                href: "https://x.com/yihe1014",
                 icon: "/images/twitter.svg",
               },
             ];
@@ -261,7 +261,7 @@
         },
         k = function () {
           var e,
-            t = "0x4e26a901078d97278108ac93f6a3e72684d54444",
+            t = "0xcomingsoon",
             a = (0, o.useState)(!1),
             i = a[0],
             m = a[1],
@@ -362,7 +362,7 @@
                             "flex flex-wrap justify-center gap-4 w-full",
                           children: [
                             (0, n.jsx)("a", {
-                              href: "https://dexscreener.com/bsc/0x4e26a901078d97278108ac93f6a3e72684d54444",
+                              href: "https://dexscreener.com/bsc/0xcomingsoon",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               className:
@@ -370,7 +370,7 @@
                               children: "View on Dexscreener",
                             }),
                             (0, n.jsx)("a", {
-                              href: "https://www.dextools.io/app/bnb/pair-explorer/0x4e26a901078d97278108ac93f6a3e72684d54444",
+                              href: "https://www.dextools.io/app/bnb/pair-explorer/0xcomingsoon",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               className:
@@ -385,7 +385,7 @@
                         className: "flex flex-wrap justify-center gap-4",
                         children: [
                           (0, n.jsx)("a", {
-                            href: "https://t.me/yihebirthday",
+                            href: "https://t.me/yihe1014",
                             target: "_blank",
                             rel: "noreferrer",
                             className:
@@ -393,7 +393,7 @@
                             children: "TELEGRAM",
                           }),
                           (0, n.jsx)("a", {
-                            href: "https://x.com/yihebirthday",
+                            href: "https://x.com/yihe1014",
                             target: "_blank",
                             rel: "noreferrer",
                             className:
@@ -817,12 +817,12 @@
                         "flex justify-center gap-8 mb-8 text-xl font-bold",
                       children: [
                         (0, n.jsx)("a", {
-                          href: "https://t.me/yihebirthday",
+                          href: "https://t.me/yihe1014",
                           className: "hover:text-gold-400",
                           children: "Telegram",
                         }),
                         (0, n.jsx)("a", {
-                          href: "https://x.com/yihebirthday",
+                          href: "https://x.com/yihe1014",
                           className: "hover:text-gold-400",
                           children: "Twitter",
                         }),
