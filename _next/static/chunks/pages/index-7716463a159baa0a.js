@@ -74,12 +74,12 @@
             x = [
               {
                 name: "Telegram",
-                href: "https://t.me/yihe1014",
+                href: "https://t.me/sammogman_entry",
                 icon: "/images/tg.svg",
               },
               {
                 name: "X",
-                href: "https://x.com/yihe1014",
+                href: "https://x.com/SamMogman",
                 icon: "/images/twitter.svg",
               },
             ];
@@ -261,7 +261,7 @@
         },
         k = function () {
           var e,
-            t = "0xcomingsoon",
+            t = "0x0375FE8e74737Ff73e114d9082fF682930Cd9f64",
             a = (0, o.useState)(!1),
             i = a[0],
             m = a[1],
@@ -341,7 +341,7 @@
                             className: "flex justify-center",
                             children: (0, n.jsx)(c(), {
                               src: h,
-                              alt: "$1014",
+                              alt: "$MOGMAN",
                               width: 400,
                               height: 150,
                               objectFit: "contain",
@@ -350,7 +350,7 @@
                           (0, n.jsx)("p", {
                             className:
                               "text-2xl md:text-3xl font-bold text-brown-900 max-w-2xl mx-auto leading-relaxed bg-white/80 backdrop-blur-sm p-4 rounded-xl border-2 border-black/10",
-                            children: "何一生日",
+                            children: "Sam Mogman",
                           }),
                         ],
                       }),
@@ -362,7 +362,7 @@
                             "flex flex-wrap justify-center gap-4 w-full",
                           children: [
                             (0, n.jsx)("a", {
-                              href: "https://dexscreener.com/bsc/0xcomingsoon",
+                              href: "https://dexscreener.com/ethereum/0x0375FE8e74737Ff73e114d9082fF682930Cd9f64",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               className:
@@ -370,7 +370,7 @@
                               children: "View on Dexscreener",
                             }),
                             (0, n.jsx)("a", {
-                              href: "https://www.dextools.io/app/bnb/pair-explorer/0xcomingsoon",
+                              href: "https://www.dextools.io/app/en/ether/pair-explorer/0x0375FE8e74737Ff73e114d9082fF682930Cd9f64",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               className:
@@ -385,7 +385,7 @@
                         className: "flex flex-wrap justify-center gap-4",
                         children: [
                           (0, n.jsx)("a", {
-                            href: "https://t.me/yihe1014",
+                            href: "https://t.me/sammogman_entry",
                             target: "_blank",
                             rel: "noreferrer",
                             className:
@@ -393,7 +393,7 @@
                             children: "TELEGRAM",
                           }),
                           (0, n.jsx)("a", {
-                            href: "https://x.com/yihe1014",
+                            href: "https://x.com/SamMogman",
                             target: "_blank",
                             rel: "noreferrer",
                             className:
@@ -437,7 +437,7 @@
                     "animate-marquee whitespace-nowrap flex gap-16 text-3xl font-black text-black",
                   children: (0, s.Z)(Array(10)).map(function (e, t) {
                     return (0,
-                    n.jsx)("span", { className: "flex items-center gap-4", children: "$1014 何一生日" }, t);
+                    n.jsx)("span", { className: "flex items-center gap-4", children: "$MOGMAN Sam Mogman" }, t);
                   }),
                 }),
               }),
@@ -474,7 +474,7 @@
                                   (0, n.jsx)("br", {}),
                                   (0, n.jsx)("span", {
                                     className: "text-brown-600",
-                                    children: "何一生日?",
+                                    children: "Sam Mogman?",
                                   }),
                                 ],
                               }),
@@ -484,7 +484,7 @@
                                 children: [
                                   (0, n.jsx)("p", {
                                     children:
-                                      "何一生日 on BNB — a symbolic project celebrating identity, time, and digital existence. Blending culture, community, and on-chain meaning.",
+                                      "Sam Mogman on Ethereum — a symbolic project celebrating identity, time, and digital existence. Blending culture, community, and on-chain meaning.",
                                   }),
                                 ],
                               }),
@@ -537,7 +537,7 @@
                       (0, n.jsx)("div", {
                         className:
                           "inline-block bg-pepe-light text-white border-4 border-black px-8 py-3 rounded-full font-black text-2xl transform -rotate-2 shadow-[6px_6px_0px_#000]",
-                        children: "THE LEGEND OF 1014",
+                        children: "THE LEGEND OF MOGMAN",
                       }),
                       (0, n.jsxs)("div", {
                         className: "relative group",
@@ -585,7 +585,7 @@
                       children: [
                         {
                           option: "Ticker",
-                          value: "$1014",
+                          value: "$MOGMAN",
                           desc: "Remember the name.",
                           color: "bg-orange-100",
                         },
@@ -604,7 +604,7 @@
                         {
                           option: "LP",
                           value: "\uD83D\uDD25",
-                          desc: "Liquidity Burned",
+                          desc: "Liquidity Locked",
                           color: "bg-red-100",
                         },
                       ].map(function (e, t) {
@@ -663,11 +663,11 @@
                             (0, n.jsx)("h3", {
                               className:
                                 "text-3xl font-black mb-4 relative z-10",
-                              children: "BNB",
+                              children: "ETH",
                             }),
                             (0, n.jsx)("p", {
                               className: "text-lg font-bold",
-                              children: "Get some BNB in your wallet to swap.",
+                              children: "Get some ETH in your wallet to swap.",
                             }),
                           ],
                         }),
@@ -683,12 +683,12 @@
                             (0, n.jsx)("h3", {
                               className:
                                 "text-3xl font-black mb-4 relative z-10",
-                              children: "Pancakeswap",
+                              children: "Uniswap",
                             }),
                             (0, n.jsx)("p", {
                               className: "text-lg font-bold",
                               children:
-                                "Go to Pancakeswap and paste the $1014 address.",
+                                "Go to Uniswap and paste the $MOGMAN address.",
                             }),
                           ],
                         }),
@@ -709,7 +709,7 @@
                             (0, n.jsx)("p", {
                               className: "text-lg font-bold",
                               children:
-                                "Swap BNB for $1014 and become a legend.",
+                                "Swap ETH for $MOGMAN and become a legend.",
                             }),
                           ],
                         }),
@@ -736,7 +736,7 @@
                         {
                           title: "Awakening",
                           desc: [
-                            "Launch on Pancakeswap",
+                            "Launch on Uniswap",
                             "Community Formation",
                             "Socials Live",
                           ],
@@ -810,19 +810,19 @@
                     (0, n.jsx)("h2", {
                       className:
                         "text-8xl font-black mb-8 text-transparent bg-clip-text bg-gradient-to-b from-white to-gray-400",
-                      children: "$1014",
+                      children: "$MOGMAN",
                     }),
                     (0, n.jsxs)("div", {
                       className:
                         "flex justify-center gap-8 mb-8 text-xl font-bold",
                       children: [
                         (0, n.jsx)("a", {
-                          href: "https://t.me/yihe1014",
+                          href: "https://t.me/sammogman_entry",
                           className: "hover:text-gold-400",
                           children: "Telegram",
                         }),
                         (0, n.jsx)("a", {
-                          href: "https://x.com/yihe1014",
+                          href: "https://x.com/SamMogman",
                           className: "hover:text-gold-400",
                           children: "Twitter",
                         }),
@@ -833,7 +833,7 @@
                       children: [
                         "\xa9 ",
                         new Date().getFullYear(),
-                        " $1014. The Legend Returns.",
+                        " $MOGMAN. The Legend Returns.",
                       ],
                     }),
                   ],
